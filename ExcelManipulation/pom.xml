@@ -4,4 +4,13 @@
   <artifactId>ExcelManipulation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+<dependencies>
+<!-- Apache POI -->
+	<dependency>
+    	<groupId>org.apache.poi</groupId>
+    	<artifactId>poi</artifactId>
+    	<version>3.15</version>
+	</dependency>
+</dependencies>
 </project>
